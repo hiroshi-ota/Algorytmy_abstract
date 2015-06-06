@@ -13,6 +13,8 @@ import java.util.Scanner;
  *
  * @author Kamil
  */
+
+@Controller
 public class Babelkowe extends Basics{
 
     private String koniec = "";
@@ -33,6 +35,10 @@ public class Babelkowe extends Basics{
             }
 
         }    
+    }
+
+    public void dajMiCos(){
+
     }
     
     @Override
